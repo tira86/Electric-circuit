@@ -47,7 +47,7 @@ The model does not reproduce a full external DDR5 PHY, package effects, DQ/DQS s
 
 這是一套互動式 DRAM 電路教學工具，用來理解傳統位線感測放大器（BLSA）與偏移消除感測放大器（OCSA）的工作原理。
 
-整個實驗室整合在單一 HTML 檔案中，包含繁體中文與由人工重新撰寫的完整英文內容。頁面內可直接切換語言，並會記住上次選擇。
+整個實驗室整合在單一 HTML 檔案中，包含繁體中文與由 Codex 重新撰寫的完整英文內容。頁面內可直接切換語言，並會記住上次選擇。
 
 ## 開啟實驗室
 
